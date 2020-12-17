@@ -41,7 +41,7 @@ ANSWERS:
             data1[k] = v2
     return dupKeys
 
-5)c)def uniqueUpdate(data1, data2):
+5)b)def uniqueUpdate(data1, data2):
     # Initially empty dictionary
     dupKeys = {}
 
